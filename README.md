@@ -13,3 +13,4 @@ It displays a realistic rotating Earth with day, night, and cloud textures.
    cd your-repo-name
 
 ## Preview: 
+![Preview](public/preview.png)
