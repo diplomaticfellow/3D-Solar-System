@@ -13,4 +13,4 @@ This repo currently contains a single-file demo: `index.html` that loads JPG tex
 - Loading overlay with progress bar and asset-counting
 
 ## Preview
-[Preview]()
+[Preview](/assets/view.png)
