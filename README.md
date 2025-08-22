@@ -1,4 +1,4 @@
-# Interactive Solar System — WebGL Demo
+# Interactive Solar System 
 
 A small, interactive solar system demo using Three.js.  
 It shows a rotating Sun and planets, an Earth with day/cloud textures and a Moon, an instanced asteroid belt, and a large milky-way background. The project includes a polished loading overlay, basic GUI controls (dat.GUI), click-to-focus, and smooth camera fly-to/lock behavior.
